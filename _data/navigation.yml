@@ -1,70 +1,50 @@
-- title: Start
+- title: Portfolio
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
+- title: "Work"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Shipping a Dashboard"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "Parshing Markdown"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "Improving Content Accessibility"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Clearing a Backlog"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "Creating an Instructor Training Program"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+  - title: "Achieving Instructor Milestones"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "Campaigning on Twitter"
     url: "/blog/"
-  - title: "Video"
+  - title: "Developing a Data Science Curriculum"
     url: "/design/video/"
-  - title: "Gallery"
+  - title: "Building a Knowledge Base"
     url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Speaking"
+  url: "/design/header-full-width-image/"
   side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  # dropdown:
+  # - title: "Header with Full-Width-Image"
+  #   url: "/design/header-full-width-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: Resume
+  url: "https://www.canva.com/design/DAFtzkkgSR0/rUAHvwZCh4tGI3WFFF9q_A/view?website#4"
   side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  # dropdown:
+  # - title: "Changelog"
+  #   url: "/changelog/"
 
 - title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  url: "https://contenttechnically.com"
+  side:  left
+  # dropdown:
+  # - title: "Blog Archive"
+  #   url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"

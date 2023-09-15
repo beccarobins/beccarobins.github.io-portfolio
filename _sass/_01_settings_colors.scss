@@ -26,9 +26,9 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
+$ci-1               : #1CADE4; // medium blue
+$ci-2               : #B1DAF4; // light blue
+$ci-3               : #3E77BF; // dark blue
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
@@ -72,42 +72,42 @@ $grey-16            : #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color    : $body-bg;
+$topbar-bg-color    : #B1DAF4;
 $topbar-bg          : $topbar-bg-color;
 
 
 $topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color  : #000;
-$topbar-link-color-hover: #000;
+$topbar-link-color  : #1CADE4;
+$topbar-link-color-hover: #FFFFFF;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $ci-3;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $ci-3; // Active Navigation Link
+$topbar-link-bg-hover: $ci-3;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-bg: $ci-3; // Background Mobile Navigation
+$topbar-dropdown-link-color: #FFFFFF;
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color: #FFFFFF;
+$topbar-menu-icon-color: #FFFFFF;
+$topbar-menu-link-color-toggled: $ci-3;
+$topbar-menu-icon-color-toggled: $ci-3;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $ci-2;
 $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 
