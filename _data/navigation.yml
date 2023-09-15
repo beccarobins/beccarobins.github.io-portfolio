@@ -3,11 +3,11 @@
   side: left
 
 - title: "Work"
-  url: "/design/"
+  url: "/work/"
   side: left
   dropdown:
   - title: "Shipping a Dashboard"
-    url: "/design/grid/"
+    url: "/work/shipping-dashboard/"
   - title: "Parshing Markdown"
     url: "/design/typography/typography/"
   - title: "Improving Content Accessibility"
