@@ -1,7 +1,7 @@
 ---
 layout: post
-title: title
-published: false
+title: Campaigning on Twitter
+published: true
 # subtitle:
 # cover-img: /assets/img/path.jpg
 thumbnail-img: ../images/
@@ -11,3 +11,4 @@ gh-repo: beccarobins/beccarobins.github.io-portfolio
 gh-badge: [follow]
 tags: [sample work]
 ---
+

@@ -13,6 +13,7 @@ tags: [sample work]
 ---
 
 This project started out as a quick fix that morphed into a week-long hackathon project at one of Microsoft's "Fix Hack Learn" weeks where employees get to work on a project that interests them. ​​​​​​​From an earlier project I'd completed, I noticed that the vast majority of the alternative text within my team's portfolio was not accessible. Instead, there was filler text, such as "image" or no alternative text at all. Images accounted for the majority of media assets within our portfolio, so fixing alt text was a high impact opportunity to improve accessibility.
+
 The aforementioned "quick fix" was a Jupyter notebook I created to update Markdown syntax for images; our platform developers created Markdown extensions to allow writers more flexibility than standard Markdown allows, including some additions to image functionality. This is especially important because my team doesn't have access to update HTML, which means we can't modify HTML attributes such as "alt" or "aria-labelledby". This project built upon that Jupyter notebook by focusing on alternative text.
 
 ## Process
