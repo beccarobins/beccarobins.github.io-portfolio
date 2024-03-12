@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/beccarobins
   class: icon-github
-  title: Code und mehr...
+  # title: Code und mehr...
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia

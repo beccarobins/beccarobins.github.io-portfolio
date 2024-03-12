@@ -8,8 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: >
-  "Becca Robins' Porfolio"
+title: Porfolio
   
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Technology professional working at the intersection of Product, Content, and Research.'
@@ -43,7 +42,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+# logo: "logo.png"
 
 # Plugins
 plugins:
@@ -113,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Becca Robins     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Becca Robins     # Default author for posts
 
 
 
@@ -193,8 +192,10 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    # twitter   : phlow
+    # facebook  : phlow.media
+    linkedin    : beccarobins
+    github      : beccarobins
 
 
 #        ____  _
