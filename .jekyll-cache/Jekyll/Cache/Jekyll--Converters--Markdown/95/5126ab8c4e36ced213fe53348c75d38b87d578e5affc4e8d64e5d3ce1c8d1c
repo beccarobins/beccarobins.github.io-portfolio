@@ -1,0 +1,16 @@
+I"�<p>Engineers and data scientists are always talking about their “stack”. OK okay, engineers and data scientists <em>on social media</em> are the ones “always talking” about their stack, but they’re not the only ones in tech with a stack. Content has its own stack, and while it may not be as vast or deep as that of an engineer, it’s certainly worth mentioning.</p>
+
+<p>Here, I’ll provide an overview of some key parts of the stack. I’ll go into more depth on the elements that are more pervasive (such as markup languages), but less so on the parts that are often developed internally (like authoring tools) or have <em>way</em> too many proprietary options to keep these posts relatively succinct (content management systems). Alright, so here is what you will see in the series:</p>
+
+<ul>
+  <li><a href="../content-stack-markup">Part 1: markup languages</a></li>
+  <li><a href="../coming-soon">Part 2: authoring tools</a></li>
+  <li><a href="../coming-soon">Part 3: metadata</a></li>
+  <li><a href="../coming-soon">Part 4: content management systems</a></li>
+  <li><a href="../coming-soon">Part 5: staging &amp; production sites</a></li>
+  <li><a href="../coming-soon">Part 6: the build</a></li>
+  <li><a href="../coming-soon">Part 7: feedback</a></li>
+  <li><a href="../coming-soon">Part 8: qualitative data</a></li>
+  <li><a href="../coming-soon">Part 9: quantitative data</a></li>
+</ul>
+:ET

@@ -1,0 +1,70 @@
+I"*<p>One of the easiest entry points in accessibility, especially as a content person, is through writing <strong>alternative text</strong> for images. Writing alternative text provides a means of understanding images for blind users, low-vision users, and users who have images disabled on their web browsers.</p>
+
+<p>There are some exceptions to note when implementing alternative text, and when in doubt, consult the authority on digital accessibility, the <a href="https://www.w3.org/">World Wide Web Cornsortium</a>, or W3C, who publish the standards on accessibility, the <a href="https://www.w3.org/WAI/WCAG21/Understanding/">Web Content Accessibility Guidelines</a>.</p>
+
+<p>W3C’s guidance on images, or non-text content is as follows:</p>
+
+<blockquote>
+  <p>All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for the situations listed below.</p>
+</blockquote>
+
+<p>The exceptions listed include control or input, time-based media (such as video), tests, sensory experiences, CAPTCHA, and images for decoration and formatting purposes. <a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-content">Visit the site to read the whole SC 1.1.1 guideline for non-text content</a>.</p>
+
+<p>Below, I’ll provide some tips on <em>how to approach</em> writing alternative text for your content.</p>
+
+<h2 id="do">Do</h2>
+
+<h3 id="learn-formatting">Learn formatting</h3>
+
+<p>This may seem basic, but many content people come from writing backgrounds <em>rather than technical ones</em> and may have zero experience with the web when they are hired. Even worse (but not surprising), they won’t be adequately trained on their content stack. I’ve seen this <em>a lot</em> and it leads writers to fear the markup language they’re working in—rather than trying things out, they just copy examples they see and keep their fingers crossed. This is especially problematic (and rampant) with alternative text, which is often absent or simply “image”, which leads these newbies to believe that is the correct way to do things.</p>
+
+<p>Here is the alternative text syntax for a few markup languages:</p>
+
+<ul>
+  <li>
+    <p><strong>Markdown</strong>: <br />
+  <code class="language-plaintext highlighter-rouge">[This is where your alternative text goes.](the_path_to_your_file_here.png)</code></p>
+  </li>
+  <li>
+    <p><strong>HTML</strong>: <br />
+<code class="language-plaintext highlighter-rouge">&lt;img src="the_path_to_your_file_here.png" alt="This is where your alternative text goes."&gt;</code></p>
+  </li>
+</ul>
+
+<h3 id="determine-meaning">Determine meaning</h3>
+
+<p>Writing alternative text is easy. Writing <strong>good</strong> alternative text is hard. But writing good alternative text should <em>always</em> be the goal, after all, the image is there for a reason, right? To write good alternative text, write what the image <em>conveys</em>. How or why does it add meaning to your text? What does a user experience or understand when they see this image? Make sure your users who rely on screenreaders can also experience that. Just make sure you don’t confuse “meaning” with “mood” (see: <a href="#Additeverywhere">Add it everywhere</a>)</p>
+
+<h3 id="learn-a-little-bit-about-screenreaders">Learn a little bit about screenreaders</h3>
+
+<p>Wait what? This will help me write alt text? Well, yeah…this is the technology you’re writing for. Understanding a bit of how they work will help you learn about <em>how</em> your writing is being read. Imagine this: you’re watching a play and all the actors are reciting the stage directions. If you don’t write <em>for</em> screenreaders, your alternative text could sound like that to your users.</p>
+
+<h2 id="dont">Don’t</h2>
+
+<h3 id="keyword-stuff">Keyword stuff</h3>
+
+<p>For the love of Pete Sampras do <strong>not</strong> load your alt text up with keywords for SEO! This is apparently a common marketing practice, much to the chagrin of the accessibility community. While it’s true that adding alternative text to your images does help SEO (search engine optimization), it is <em>not</em> its purpose. Using it in this way only serves to frustrate users who rely on alternative text for understanding. Don’t be this guy.</p>
+
+<h3 id="say-too-much">Say too much</h3>
+
+<p>This is actually tricky—especially if you’re working hard at conveying meaning. But alternative text has character limits, typically around 100 characters (<a href="https://fae.disability.illinois.edu/rulesets/IMAGE_4_EN/#:~:text=Alt%20text%20no,more%20than%20100%20characters">Functional Accessibility Evaluator 2.3
+</a>) due to some of the functionalities of screenreaders (remember to
+<a href="#Learnalittlebitaboutscreenreaders">Learn a little bit about screenreaders</a>). Best practices suggest being as succinct as possible, so try to distill the image down to its core meaning or intent without getting lost in extraneous details. If 100 characters seem impossible, if you’re describing a complicated graph for example, you can actually use a different image type to increase your bandwidth—another good reason to learn a little bit about accessibility is to understand all the possibilities.</p>
+
+<h3 id="add-it-everywhere">Add it everywhere</h3>
+
+<p>This may surprise you (it did me), but <em>not every image needs alt text</em>. While many images contribute to your content, some images are just there to break up large blocks of text or to look pretty. In web accessibility, these images are called <strong>decorative images</strong> and they are treated different than say a chart that shows the results of a survey. Decorative images are actually <em>skipped</em> by screenreaders. This allows the reader to maintain their focus on valuable content without being interrupted. For example, “Photograph of an amazing Tuscan sunset” being read out in the middle of a panzanella recipe (an amazing salad, by the way).</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>Wow, all this writing about alternative text and not a single image? Fair. However, there are better resources to learn <em>how to write</em> alternative text (I will list them at the end), as I want to avoid regurgitating what others have written. What I want you to walk away with is that alternative text is <strong>not</strong> simply a description of an image, but rather a meaningful interpretation of an image, requires an understanding of technology, and that writing skills only touch the surface.</p>
+
+<h3 id="alternative-text-writing-resources">Alternative text writing resources</h3>
+
+<ul>
+  <li><a href="https://www.w3.org/WAI/tips/writing/#write-meaningful-text-alternatives-for-images">Write meaningful text alternatives for images</a></li>
+  <li><a href="https://accessibility.18f.gov/images/">18fAccessibility Guide: Images</a></li>
+  <li><a href="https://accessibility.18f.gov/images/">An alt Decision Tree</a></li>
+</ul>
+
+:ET
