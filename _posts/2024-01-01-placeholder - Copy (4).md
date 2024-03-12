@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Onboarding
-published: true
-# subtitle: Excerpt from Soulshaping by Jeff Brown
+title: title
+published: false
+# subtitle:
 # cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
+thumbnail-img: ../images/
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [evergreen content]
+tags: [sample work]
 ---

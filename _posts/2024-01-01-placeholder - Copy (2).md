@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Writing guidelines
-published: true
+title: title
+published: false
 # subtitle:
 # cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
+thumbnail-img: ../images/
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [content stack, markup languages, Markdown, HTML]
+tags: [sample work]
 ---

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Feedback messages
-published: true
-# subtitle:  The dos and the don'ts
+title: title
+published: false
+# subtitle:
 # cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
+thumbnail-img: ../images/
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [content accessibility, alternative text, images, Markdown, HTML]
+tags: [sample work]
 ---
-
