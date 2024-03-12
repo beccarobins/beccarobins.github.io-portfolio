@@ -24,7 +24,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Portfolio: "https://beccarobins.com"
+  Blog: "https://beccarobins.com"
 
 ################
 # --- Logo --- #
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://contenttechnically.com/"
+url-pretty: "https://beccarobins.com/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -162,7 +162,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-gtag: "G-BP1MZ2GDM3"
+# gtag: "G-BP1MZ2GDM3"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -241,7 +241,7 @@ gtag: "G-BP1MZ2GDM3"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+# date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
