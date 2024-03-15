@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [Cactus Communications, Editing]
 ---
 
 Once upon a time, I was an academic and a scientific editor. My work as an editor required a non-disclosure agreement, therefore the visuals and copy throughout this case study are recreations based on that work.

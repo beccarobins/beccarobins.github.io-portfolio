@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [DataCamp]
 ---
 
 As a Data Science Content Developer, I contributed to 26 data science courses that have helped more than 50,000 students. I helped develop courses in four different technologies (R, Python, SQL, and Spreadsheets) in topics ranging from query performance in SQL to biomedical image analysis using Python. The content I created had an average rating of 4.6/5—the highest of all Content Developers at the time, a record which I am happy to say that my successors broke! If you're interested in viewing the content I helped build, please visit one of the links below.

@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [DataCamp]
 ---
 
 Instructor onboarding is a continual process when growing a learning platform. DataCamp has tried several methods: live training sessions, 1:1 training, and asynchronous online courses. However, the initial online course developed for instructor onboarding only covered the initial phase of course creation using an external tool that required internal onboarding, and further 1:1 training was usually needed in subsequent steps. To alleviate these issues and create a maintainable onboarding solution, the idea of "Course Creation at DataCamp" was born. Course Creation at DataCamp, or CC@DC as we affectionately called it, was designed and developed in-house using DataCamp's proprietary authoring tool, Teach, ensuring that future members of the Content Team would always have access to the course to make necessary updates.
@@ -23,7 +23,7 @@ Most DataCamp courses are created using a standard instructional design model ca
 ### Analyze
 The Analyze phase of ADDIE consists of a needs analysis; in other words, "What is the actual problem?" In addition to a content audit of the existing training content, my team and I spoke with each other and Content Team members about the issues they discussed most with their instructors. Furthermore, we spoke with other stakeholders, e.g., PM, Engineering Leads, etc. to determine the scope of the technical information that should be included in the training.
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=5HaF04I8ZIs&t=1s)
+<a class = "center" href="https://www.youtube.com/watch?v=5HaF04I8ZIs&t=1s" target="_blank"><img src="../images/Welcome to Datacamp - thumbnail.jpg" alt="HTML tutorial"></a>
 
 <figcaption class="caption">The introductory video exercise of "Course Creation at DataCamp".  A sample of videos from DataCamp courses are available on YouTube for free; access to all DataCamp content requires a premium subscription.
 </figcaption> 
@@ -31,7 +31,7 @@ The Analyze phase of ADDIE consists of a needs analysis; in other words, "What i
 ### Design
 As outlined in the corresponding video, the Design phase of ADDIE consists of building the course blueprint. The two other Content Developers and I took the analysis phase results and created a blueprint, or course specifications, that outlined the required information (through learning objectives) in a logical order where each new concept built on the previous one. We iterated on these specs several times before landing on the final version.
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=SY_vYDMj0TY)
+<a class = "center" href="https://www.youtube.com/watch?v=SY_vYDMj0TY" target="_blank"><img src="../images/Course design - thumbnail.jpg" alt="HTML tutorial"></a>
 
 <figcaption class="caption">The second video exercise of "Course Creation at DataCamp".  A sample of videos from DataCamp courses are available on YouTube for free; access to all DataCamp content requires a premium subscription.
 </figcaption> 
@@ -39,7 +39,7 @@ As outlined in the corresponding video, the Design phase of ADDIE consists of bu
 ### Develop
 To utilize the team's talent and work swiftly, the Development of some lessons was "outsourced" to members of the Content Team. The core team took on 2-3 lessons each, which included writing a video script of ~400-600 words, the associated slide deck, and 2-4 interactive exercises, consisting of either multiple choice exercises or coding exercises, and their submission correctness tests (see: Developing a data science curriculum).
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=OzCScxBHiJU&embeds_referring_euri=https%3A%2F%2Fbeccarobins.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+<a class = "center" href="https://www.youtube.com/watch?v=OzCScxBHiJU&embeds_referring_euri=https%3A%2F%2Fbeccarobins.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo" target="_blank"><img src="../images/Course development - thumbnail.jpg" alt="HTML tutorial"></a>
 
 <figcaption class="caption">The third video exercise of "Course Creation at DataCamp".  A sample of videos from DataCamp courses are available on YouTube for free; access to all DataCamp content requires a premium subscription.
 </figcaption> 

@@ -9,12 +9,12 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [DataCamp]
 ---
 
 Unlike typical product experiences, good learning experiences are not frictionless. Learners don't find value in experiences that don't challenge them and they hate courses they can't pass. Assessments are an integral part of learning and play a pivotal role in creating a good learner experience via feedback messages, the response a learner receives when they submit an answer to an assessment question. Good feedback: 1) clearly confirms or refutes whether the answer is correct, 2) provides meaningful information to the learner that affirms or corrects their mental model, and 3) when the learner is wrong, it does not give away the answer.
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=syWOP_u37ZA)
+<a class = "center" href="https://www.youtube.com/watch?v=syWOP_u37ZA" target="_blank"><img src="../images/Code submission - thumbnail.jpg" alt="HTML tutorial"></a>
 
 <figcaption class="caption"> A demo of DataCamp's code submission. The red error messages in the console on the bottom right are written by developers of the programming language. The feedback messages appear in the instructions box (on the bottom left) along with a "Do you find this feedback helpful" prompt to assess whether the feedback message helped the learner understand their error.
 </figcaption> 

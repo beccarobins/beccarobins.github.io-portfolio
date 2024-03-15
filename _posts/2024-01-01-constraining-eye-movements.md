@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [LJMU]
 ---
 
 This page is currently in development. However, you can read the associated publication, [the effects of constraining vision and eye movements on whole-body coordination during standing turns](https://link.springer.com/article/10.1007/s00221-017-5079-0), published by Experimental Brain Research.

@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [DataCamp, Marketing, Social Media]
 ---
 
 In January 2019, I was invited to give a talk at the International Society for Posture & Gait Research World Congress in Edinburgh, Scotland. The talk was part of a panel on transitioning into industry, which naturally led to introducing DataCamp as a skill-building tool. To supplement my talk, I stepped into the role of marketer/sales rep and embarked on a week-long Twitter campaign to support the DataCamp exhibition booth that I ran during the conference. These roles were definitely outside of my comfort zone and I really didn't know what I was getting into. My goals for the week were to spread awareness of DataCamp across the congress and to urge conference attendees, particularly students, to visit my booth, so that I could find out more about their needs and interests.
@@ -17,11 +17,12 @@ In January 2019, I was invited to give a talk at the International Society for 
 ## Process
 
 I started my campaign right after my talk finished. I made my slides available as soon as possible to ride the "motivation wave" at the beginning of a conference. My intention was to get as many members of "my audience" to look up and download my material. I also informed them where I would be (physically) available during the week along with some enticing freebies.
-<div>
+
+<div class = "left">
 <img src="../images/Tweet1.JPG " alt="TBD Sorry." width="30%" class="left">
 </div>
 
-Once I had my booth set up, I made sure that people knew where they could find me and how a visit to my booth could benefit them. ​​​​​​​This particular tweet resulted in a very excited group of students who not only wanted the freebies but also wanted to find out more about this "100% free" thing they'd read. I explained everything to them, gave them my card, and heard back from them just a week after the conference!
+Once I had my booth set up, I made sure that people knew where they could find me and how a visit to my booth could benefit them. ​​​​​​​This particular tweet resulted in a very excited group of students who not only wanted the freebies but also wanted to find out more about this "100% free" thing they'd read. I explained everything to them, gave them my card, and heard back
 
 <div>
 <img src="../images/Tweet2.JPG" alt="TBD Sorry." width="30%" class="left">
@@ -46,7 +47,9 @@ Throughout the conference, I tried to add more personal tweets to the largely pr
 </div>
 
 ## Key takeaways
+
 The main finding from running a Twitter campaign? It is HARD. Not only did I have to come up with a new way to say essentially the same thing multiple times a day, but I also had to time things perfectly while competing with all the other tweets at the conference. Given my familiarity with DataCamp's curriculum, the conference attendees, and the availability of the conference program ahead of the event, it would have been prudent to plan the entire campaign before the conference. This was definitely a teaching moment (many teaching moments, really) that I won't soon forget.
+
 <div>
 <img src="../images/Tweet5.JPG" alt="TBD Sorry." width="30%"  class="left">
 </div>

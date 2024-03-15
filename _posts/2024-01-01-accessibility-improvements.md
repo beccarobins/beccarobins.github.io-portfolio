@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [Microsoft]
 ---
 
 This project started out as a quick fix that morphed into a week-long hackathon project at one of Microsoft's "Fix Hack Learn" weeks where employees get to work on a project that interests them. ​​​​​​​From an earlier project I'd completed, I noticed that the vast majority of the alternative text within my team's portfolio was not accessible. Instead, there was filler text, such as "image" or no alternative text at all. Images accounted for the majority of media assets within our portfolio, so fixing alt text was a high impact opportunity to improve accessibility.
@@ -44,15 +44,7 @@ pyperclip.paste()
 ## Moving from notebook to app
 Not all my colleagues are familiar with Python or Jupyter Notebooks, so I decided to turn the script into a simple-to-use app that could be run by anyone. I've never been on the coding end of app development, so I started in shallow waters with the PySimpleGUI package that helps build, well, simple GUIs. It's not the prettiest thing, but customers aren't seeing it, so I'm okay with it.
 
-<!-- <video src="https://www.youtube.com/watch?v=8aE4JO4ld4g" width="320" height="240" controls></video> -->
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=8aE4JO4ld4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<!-- <iframe src="https://www.youtube.com/watch?v=8aE4JO4ld4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
-
-<!-- <iframe width="420" height="315" src="https://www.youtube.com/watch?v=8aE4JO4ld4g" frameborder="0" allowfullscreen></iframe> -->
-
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=8aE4JO4ld4g)
+<a class = "center" href="https://www.youtube.com/watch?v=8aE4JO4ld4g" target="_blank"><img src="../images/Smart%20Alternative%20prototype%20FHL%20page%20-%20thumbnail.jpg" alt="HTML tutorial"></a>
 
 <figcaption  class="caption">An iteration of the app, "Smart Alternative". The UI text for the toggle features follows the content patten {verb){image/feature}. The radio button text uses terms familiar to the intended users: simple image, complex image, and icon. The output message shows the user the new syntax as well as an analysis that checks the alternative text against content guidelines.</figcaption>
 

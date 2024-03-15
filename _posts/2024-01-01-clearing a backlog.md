@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [Microsoft]
 ---
 
 Like many new content platforms, scaling the content library was one of the main strategies employed by MS Learn. The M365 portfolio used vendors to create this content, which led to a huge content library after only two years and far exceeded the ability for internal staff to diligently maintain it. My team grew from 1 person to 3 people at the beginning of 2021 (I was #3) and as a former manager of content quality, I decided to check out this problem myself.

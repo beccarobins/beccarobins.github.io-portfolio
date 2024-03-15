@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [DataCamp, Writing, Editing]
 ---
 
 When I first arrived at DataCamp, there were no official writing guidelines. My previous job as a scientific editor was all about guidelines, so I thought this was pretty crazy. I wanted to promote consistency in the courses on our site, so I proposed creating guidelines. While I had the encouragement of my supervisor, I was not allotted dedicated time to the project, and my course development work remained the top priority. I'd never had any difficulty juggling my workload, so I set out on creating DataCamp's first writing guidelines.

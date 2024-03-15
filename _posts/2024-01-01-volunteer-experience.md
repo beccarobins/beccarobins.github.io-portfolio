@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [New York Cares, Service Design]
 ---
 
 During the COVID-19 pandemic, I, like most of the world, found myself at home A LOT. I was incredibly lucky and maintained both my health and my employment, but seeing the stories from around my city, I knew I needed to help those less fortunate. I signed up for New York Cares, the largest volunteer network in New York City.

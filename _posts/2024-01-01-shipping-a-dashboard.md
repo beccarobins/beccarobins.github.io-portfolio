@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [sample work]
+tags: [Microsoft]
 ---
 
 Following a reorg, my team found itself in charge of two separate content platforms: learn.microsoft.com (LMC) and support.microsoft.com (SMC). While these two platforms had a lot in common, data and reporting were vastly different. Importantly, on LMC, we'd been measuring "content engagement" using a set of core behavioral metrics that quantified user behavior in relation to page view data. These metrics brought (and still bring) valuable insights that help inform content strategy. However, on SMC, most of these metrics were not measured at all.
