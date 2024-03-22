@@ -13,8 +13,8 @@ published: true
   <body>
     <div class="wrapper">
       <article class="img-info">
-        <p> Hello there, my name is Becca and I work in tech. I spend my days shipping content, building content tools, analyzing content data, and improving content operations. For the last six years, I've worked on content teams&mdash;at one of the fastest growing startups in North America and at one of the largest corporations in the world. Prior to that, I was a neuroscientist (and not producing much content at all). Boy have things changed.</p>
-        <p>I started this blog because there is <i>a lot</i> more to content than just writing and editing. It requires reaching out to many other fields and using their methods. I'll use this blog to describe different approaches I've used along the way, which I hope can help others in their content journeys.
+        <p> Hello there, I'm Becca. I spend my days shipping content, building content tools, analyzing content data, and improving content operations. For the last six years, I've worked in the tech industry on content teams&mdash;at one of the fastest growing startups in North America and at one of the largest corporations in the world. Prior to that, I was a behavioral neuroscientist (and not producing much content at all). Boy have things changed.</p>
+        <p>Here, you can find samples of my work from throughout my career. Some of these projects went _exceedingly_ well and helped a lot of people. And some were more interesting to me than anyone else. I started documenting my work when I realized I _really_ needed a portfolio for job interviews, however I've found myself updating it relatively frequently because it's a great exercise. It helps me distill my career narrative and encourages me to keep my resume up-to-date! It even helped me realize that I actually know a thing or two (and I've turned that into a [blog](contenttechnically.com)).
         </p>
         <p>Outside of work, you'll find me hanging out with my two kitties, McCallister and Oscar. When Mick and Ozzy aren't distracting me with their late-night partying, I'm pursuing my other interests: online education, art, fitness, pickles, and <i>doughnuts</i>. One of my favorite things to do when I travel is go on a "doughnut tour" and try the local fare. While New York is the doughnut king, Scotland has some truly dazzling dough.
         </p>
@@ -24,11 +24,6 @@ published: true
         <img src="https://raw.githubusercontent.com/beccarobins/beccarobins.github.io/master/images/becca-stupid-face.jpg" alt="Photograph of Becca's lovely face with the Empire State Building in the background." width="50%" height="50%">
         <figcaption  style="width:50%" class="center"><strong>Fun fact</strong>: A few months after this photo was taken, I began my tech journey in the building behind me.</figcaption>
       </figure>
-      <article>
-        <br>
-        <p>If you're interested in my <i>work</i> work, check out <a href="https://www.beccarobins.com" target="_blank">my portfolio</a>!
-        </p>
-      </article>
     </div>
   </body>
 </html>
