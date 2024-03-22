@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [Microsoft]
+tags: [Microsoft, Python, Markdown, App Development]
 ---
 
 This project was actually pretty straightforward but also pushed some limits (for me at least). Essentially, content on learn.microsoft.com is written/rendered using a combination of Markdown and YAML files. We often work with partners who aren't familiar with the syntax of these files, so we need to port them over to a Word doc for them to review and edit. Doing this manually can be time-consuming, sometimes even up to an hour. While requests for Word docs weren't a daily thing, it was frequent enough that we needed another solution.

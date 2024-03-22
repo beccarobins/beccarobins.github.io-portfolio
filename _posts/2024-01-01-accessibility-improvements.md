@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [Microsoft]
+tags: [Microsoft, Accessibility, Python]
 ---
 
 This project started out as a quick fix that morphed into a week-long hackathon project at one of Microsoft's "Fix Hack Learn" weeks where employees get to work on a project that interests them. ​​​​​​​From an earlier project I'd completed, I noticed that the vast majority of the alternative text within my team's portfolio was not accessible. Instead, there was filler text, such as "image" or no alternative text at all. Images accounted for the majority of media assets within our portfolio, so fixing alt text was a high impact opportunity to improve accessibility.

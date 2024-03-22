@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [DataCamp]
+tags: [DataCamp, Learner Support]
 ---
 
 Unlike typical product experiences, good learning experiences are not frictionless. Learners don't find value in experiences that don't challenge them and they hate courses they can't pass. Assessments are an integral part of learning and play a pivotal role in creating a good learner experience via feedback messages, the response a learner receives when they submit an answer to an assessment question. Good feedback: 1) clearly confirms or refutes whether the answer is correct, 2) provides meaningful information to the learner that affirms or corrects their mental model, and 3) when the learner is wrong, it does not give away the answer.

@@ -8,7 +8,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [DataCamp, Information Architechture]
+tags: [DataCamp, Information Architecture]
 ---
 
 For my first few months as a Content Developer, I didn't even know we had instructor-facing documentation—and once I was finally introduced to "Authoring," I understood why the site was mysteriously left out of my onboarding. It turned out that our instructors were introduced to Authoring during the course design phase (i.e., the pre-Becca phase) and gave up on our documentation long before they ever reached development. This resulted in many hours spent regurgitating content guidelines in instructor 1:1s and focusing more on style suggestions than narrative in feedback. Following this revelation, I lobbied to overhaul Authoring and won! I led and managed the project and worked together with key stakeholders to get the new site launched on time.

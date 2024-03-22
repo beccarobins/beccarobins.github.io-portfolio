@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Shipping a dashboard
-published: false
+published: true
 # subtitle:
 # cover-img: /assets/img/path.jpg
-thumbnail-img: ../images/
+thumbnail-img: ../images/23.png
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [Microsoft]
+tags: [Microsoft, Power BI, Cross-functional Collaboration]
 ---
 
 Following a reorg, my team found itself in charge of two separate content platforms: learn.microsoft.com (LMC) and support.microsoft.com (SMC). While these two platforms had a lot in common, data and reporting were vastly different. Importantly, on LMC, we'd been measuring "content engagement" using a set of core behavioral metrics that quantified user behavior in relation to page view data. These metrics brought (and still bring) valuable insights that help inform content strategy. However, on SMC, most of these metrics were not measured at all.
@@ -46,4 +46,4 @@ Right: The "Low Traffic" tab lists articles with too little traffic to generat
 </figcaption>
 
 ## Key takeaways
-While I don't love that this project was launched agree with the HiPPO (highest paid person's opinion) approach, it's brought a rich set of data to my team that otherwise would not exist and it has helped illuminate issues in our content other than just engagement issues. Overall, I'm happy with the end result, which is a launched dashboard, a clear Agile framework for further iterations, and engaged users. As I continue with this project, I'm learning more about my users and that some are a bit more weary about data. To this end, I've started using the data available in the dashboard to build customized reports that present the data in a contextualized way and also provide a bit more explanation on how to read and interpret specific types of charts and graphs.
+While I don't love that this project was launched with the HiPPO (highest paid person's opinion) approach, it's brought a rich set of data to my team that otherwise would not exist and it has helped illuminate issues in our content other than just engagement issues. Overall, I'm happy with the end result, which is a launched dashboard, a clear Agile framework for further iterations, and engaged users. As I continue with this project, I'm learning more about my users and that some are a bit more weary about data than I expected. To this end, I've started using the data available in the dashboard to build customized reports that present the data in a contextualized way and also provide a bit more explanation on how to read and interpret specific types of charts and graphs.

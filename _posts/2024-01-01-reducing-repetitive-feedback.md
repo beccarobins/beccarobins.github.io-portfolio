@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [DataCamp]
+tags: [DataCamp, Writing, Editing, Operations]
 ---
 
 After I'd been working at DataCamp for a while, I noticed that I was making the same edits and providing the same feedback to instructors again and again. I spoke with my fellow Content Developers and it turns out I was not the only one. This was a source of frustration for everyone but beyond sending instructors links to the documentation alongside their feedback, not much was done.

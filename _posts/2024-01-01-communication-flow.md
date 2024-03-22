@@ -9,7 +9,7 @@ share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
 gh-badge: [follow]
-tags: [DataCamp]
+tags: [DataCamp, GitHub, Python]
 ---
 
 When I first started on the Content Team at DataCamp, there weren't many processes in place. This is pretty standard for fast-moving startups and wasn't a problem until we started to scale and enlist "repeat" instructors, i.e., subject matter experts who'd already made a course with us. This lack of process meant our repeat instructors wouldn't necessarily work with the same individuals they'd worked with before and they would often struggle to "onboard" to a new point of contact resulting in delays and discontent. As an individual contributor, I'd built my "own" process, which worked for me, but when I was promoted to Head of Content Development, I wanted to make sure that I took into consideration what the other Content Developers (CDs) were doing to build a process that tackled the aforementioned problems while making sure I had buy-in from my team.
