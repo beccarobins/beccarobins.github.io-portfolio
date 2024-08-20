@@ -35,7 +35,7 @@ After reviewing the data, points in the development process that frequently requ
 After reviewing the data, points in the development process that frequently required communication and clarification were identified. Seven "milestone" issues were written covering from the time the course is transitioned from the Curriculum Manager to the Content Developer (i.e., "handoff") to the hard launch of the course, when the course is marketed and the enters the "maintenance" phase. Canned messages were written using the heuristic "optimize for clarity over brevity".
 
 <div>
-<img src="../images/Github issue milestones.jpg" alt="TBD Sorry." width="100%" height="100%" class="center">
+<img src="../images/GitHub issue milestones.jpg" alt="TBD Sorry." width="100%" height="100%" class="center">
 </div>
 <figcaption class="caption"> The initial set of instructor milestone issues spanned from scheduling the course handoff to informing instructors that their course had been hard launched by our Marketing team (and that their first paycheck was on its way).
 </figcaption> 
@@ -44,7 +44,7 @@ After reviewing the data, points in the development process that frequently requ
 Each canned message was saved as a text file and uploaded to a GitHub repository, whose contents could be downloaded locally. To personalize each canned message, the text files were pulled into a custom Python script that interfaced with the GitHub API through a Python wrapper called PyGitHub. Names, Calendly links, and due dates were updated using the script, and the message was then automatically and immediately sent from the CD's GitHub handle in a formatted and branded GitHub issue to the course instructor.
 
 <div>
-<img src="../images/GH issue.jpg" alt="TBD Sorry." width="100%" height="100%" class="center">
+<img src="../images/GH issue.JPG" alt="TBD Sorry." width="100%" height="100%" class="center">
 </div>
 <figcaption class="caption"> The canned message sent to instructors at the Handoff stage. DataCamp courses are typically built with external instructors. Instructors need clarifying information about which stage of the process they're in, the purpose of the stage, and what they should be doing. Canned messages were used to provide this information and to ensure that each Content Developer provided the same information to each instructor.
 </figcaption> 
