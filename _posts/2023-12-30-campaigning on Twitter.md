@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Campaigning on Twitter
-published: false
+published: true
 # subtitle:
 # cover-img: /assets/img/path.jpg
 thumbnail-img: ../images/
