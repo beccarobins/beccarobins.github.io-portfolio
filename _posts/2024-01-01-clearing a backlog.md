@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clearing a backlog
-published: false
+published: true
 # subtitle:
 # cover-img: /assets/img/path.jpg
 thumbnail-img: ../images/
