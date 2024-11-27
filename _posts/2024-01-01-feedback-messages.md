@@ -4,7 +4,7 @@ title: Feedback messages
 published: true
 # subtitle:  The dos and the don'ts
 # cover-img: /assets/img/path.jpg
-thumbnail-img: ../images/14.png
+thumbnail-img: ../images/19.png
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
