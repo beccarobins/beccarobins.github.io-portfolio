@@ -14,32 +14,32 @@ tags: [DataCamp, Data Science, Content Development]
 
 As a Data Science Content Developer, I contributed to 26 data science courses that have helped more than 50,000 students. I helped develop courses in four different technologies (R, Python, SQL, and Spreadsheets) in topics ranging from query performance in SQL to biomedical image analysis using Python. The content I created had an average rating of 4.6/5—the highest of all Content Developers at the time, a record which I am happy to say that my successors broke! If you're interested in viewing the content I helped build, please visit one of the links below.
 
-​​​​​​​Analyzing Police Activity with pandas
-Analyzing Survey Data in R
-Analyzing US Census Data in R
-Biomedical Image Analysis in Python
-Building and Optimizing Triggers in SQL Server
-Categorical Data in the Tidyverse
-Error and Uncertainty in Spreadsheets
-Experimental Design in R
-Factor Analysis in R
-Financial Forecasting in Python
-Foundations of Functional Programming with purrr
-Improving Query Performance in PostgreSQL​​​​​​​
-Improving Query Performance in SQL Server​​​​​​​
-Improving Your Data Visualizations in Python
-Interactive Maps with leaflet in R
-Intermediate Data Visualization with Seaborn
-Intermediate Functional Programming with purrr
-Introduction to SQL (practice pool)
-Model Validation in Python
-Network Analysis in the Tidyverse
-Python for MATLAB Users
-Statistical Simulation in Python
-Structural Equation Modeling with lavaan in R
-Support Vector Machines in R
-Writing Efficient Python Code
-Writing Functions in Python
+- ​​​​​​​Analyzing Police Activity with pandas
+- Analyzing Survey Data in R
+- Analyzing US Census Data in R
+- Biomedical Image Analysis in Python
+- Building and Optimizing Triggers in SQL Server
+- Categorical Data in the Tidyverse
+- Error and Uncertainty in Spreadsheets
+- Experimental Design in R
+- Factor Analysis in R
+- Financial Forecasting in Python
+- Foundations of Functional Programming with purrr
+- Improving Query Performance in PostgreSQL​​​​​​​
+- Improving Query Performance in SQL Server​​​​​​​
+- Improving Your Data Visualizations in Python
+- Interactive Maps with leaflet in R
+- Intermediate Data Visualization with Seaborn
+- Intermediate Functional Programming with purrr
+- Introduction to SQL (practice pool)
+- Model Validation in Python
+- Network Analysis in the Tidyverse
+- Python for MATLAB Users
+- Statistical Simulation in Python
+- Structural Equation Modeling with lavaan in R
+- Support Vector Machines in R
+- Writing Efficient Python Code
+- Writing Functions in Python
 
 [![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/embed/CUZ6oSLTzlc)
 
