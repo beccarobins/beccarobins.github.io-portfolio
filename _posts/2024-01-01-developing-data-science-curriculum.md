@@ -4,7 +4,7 @@ title: Developing a Curriculum
 published: true
 # subtitle:
 # cover-img: /assets/img/path.jpg
-thumbnail-img: ../images/
+thumbnail-img: ../images/16.png
 share-img: /images/social-share-logo.png
 gh-repo: beccarobins/beccarobins.github.io-portfolio
 # gh-badge: [star, fork, follow]
